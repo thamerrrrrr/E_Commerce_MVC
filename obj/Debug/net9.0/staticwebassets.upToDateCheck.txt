@@ -1,10 +1,14 @@
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\webfonts\fa-regular-400.svg
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\jquery.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\demo.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.slim.min.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\jquery.overlayScrollbars.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
@@ -13,8 +17,10 @@ C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_C
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\adminlte.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\css\OverlayScrollbars.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
@@ -24,9 +30,12 @@ C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_C
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\webfonts\fa-brands-400.svg
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation\LICENSE.md
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.slim.min.js
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\css\adminlte.min.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\css\adminlte.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.slim.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
@@ -39,19 +48,25 @@ C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_C
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\js\site.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\bootstrap.bundle.min.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\dist\jquery.min.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery\LICENSE.txt
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\adminlte.min.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\css\all.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\bootstrap.bundle.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\Admin\js\jquery.min.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\webfonts\fa-solid-900.svg
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
@@ -62,6 +77,23 @@ C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_C
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
 C:\Users\almanar\Documents\Thamer Draidi Back End\MVC-Project\E_Commerce_MVC\E_Commerce_MVC\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\Admin\css\adminlte.min.css
+wwwroot\Admin\css\adminlte.min.css.map
+wwwroot\Admin\css\all.min.css
+wwwroot\Admin\css\OverlayScrollbars.min.css
+wwwroot\Admin\img\AdminLTELogo.png
+wwwroot\Admin\img\user1-128x128.jpg
+wwwroot\Admin\img\user2-160x160.jpg
+wwwroot\Admin\img\user3-128x128.jpg
+wwwroot\Admin\img\user8-128x128.jpg
+wwwroot\Admin\js\adminlte.min.js
+wwwroot\Admin\js\adminlte.min.js.map
+wwwroot\Admin\js\bootstrap.bundle.min.js
+wwwroot\Admin\js\bootstrap.bundle.min.js.map
+wwwroot\Admin\js\demo.js
+wwwroot\Admin\js\jquery.min.js
+wwwroot\Admin\js\jquery.min.map
+wwwroot\Admin\js\jquery.overlayScrollbars.min.js
 wwwroot\css\site.css
 wwwroot\css\styles.css
 wwwroot\favicon.ico
@@ -127,3 +159,18 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\webfonts\fa-brands-400.eot
+wwwroot\webfonts\fa-brands-400.svg
+wwwroot\webfonts\fa-brands-400.ttf
+wwwroot\webfonts\fa-brands-400.woff
+wwwroot\webfonts\fa-brands-400.woff2
+wwwroot\webfonts\fa-regular-400.eot
+wwwroot\webfonts\fa-regular-400.svg
+wwwroot\webfonts\fa-regular-400.ttf
+wwwroot\webfonts\fa-regular-400.woff
+wwwroot\webfonts\fa-regular-400.woff2
+wwwroot\webfonts\fa-solid-900.eot
+wwwroot\webfonts\fa-solid-900.svg
+wwwroot\webfonts\fa-solid-900.ttf
+wwwroot\webfonts\fa-solid-900.woff
+wwwroot\webfonts\fa-solid-900.woff2

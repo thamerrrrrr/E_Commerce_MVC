@@ -2,7 +2,75 @@
   "Files": [
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\E_Commerce_MVC.bundle.scp.css",
-      "PackagePath": "staticwebassets\\E_Commerce_MVC.9x47v0vidc.bundle.scp.css"
+      "PackagePath": "staticwebassets\\E_Commerce_MVC.y4cyxrxynh.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\css\\OverlayScrollbars.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\OverlayScrollbars.min.css"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\Admin\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\Admin\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\js\\jquery.overlayScrollbars.min.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\jquery.overlayScrollbars.min.js"
     },
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\css\\site.css",
@@ -263,6 +331,66 @@
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
     },
     {
       "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.E_Commerce_MVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

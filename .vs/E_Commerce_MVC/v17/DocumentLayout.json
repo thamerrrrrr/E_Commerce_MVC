@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\customer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\admin\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|c:\\users\\almanar\\documents\\thamer draidi back end\\mvc-project\\e_commerce_mvc\\e_commerce_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D19533-7C9B-42E3-9FC4-D19E429A1EF0}|E_Commerce_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T20:09:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T20:06:53.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T19:27:23.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAHgDAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T19:13:56.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T19:15:25.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T19:14:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:09:27.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T19:06:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T19:09:50.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:46:42.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
