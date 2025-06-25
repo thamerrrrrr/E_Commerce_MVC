@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aFAsr9YeB6LYqeoN17F3h8imKuEgePjd3RNSvbVaQA0=",
+  "Hash": "J+tCuf/E+RUYtY8zsnsQWfaElZwDegT5lVbMT+/qbQo=",
   "Source": "E_Commerce_MVC",
   "BasePath": "_content/E_Commerce_MVC",
   "Mode": "Default",
@@ -57,27 +57,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2eo1ej7aty-au0k0t20r3.gz",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint=au0k0t20r3}]?.svg.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "809mgnas59",
-      "Integrity": "GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg"
     },
     {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2gu9sx8z9a-dd6z7egasc.gz",
@@ -710,27 +689,6 @@
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e52gpc8v7t-v5dkq0ivw8.gz",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint=v5dkq0ivw8}]?.svg.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "wu2zwqokti",
-      "Integrity": "OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg"
-    },
-    {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e7e8g71a5t-x0q3zqp4vz.gz",
       "SourceId": "E_Commerce_MVC",
       "SourceType": "Discovered",
@@ -813,6 +771,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\eyxuqg5qhq-au0k0t20r3.gz",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint=au0k0t20r3}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "809mgnas59",
+      "Integrity": "GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.svg"
     },
     {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\fd4es8kmni-upvfw3tve8.gz",
@@ -939,6 +918,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\hu0z9dtcej-v5dkq0ivw8.gz",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint=v5dkq0ivw8}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wu2zwqokti",
+      "Integrity": "OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.svg"
     },
     {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\if7pstrq2f-ub07r2b239.gz",
@@ -1487,27 +1487,6 @@
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\tw95yx2lk0-akp8kdn8vu.gz",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint=akp8kdn8vu}]?.svg.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "3366y0hulb",
-      "Integrity": "T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg"
-    },
-    {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\usf81flngm-06098lyss8.gz",
       "SourceId": "E_Commerce_MVC",
       "SourceType": "Discovered",
@@ -1716,6 +1695,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\zeo1yf19zr-akp8kdn8vu.gz",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint=akp8kdn8vu}]?.svg.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.svg",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "3366y0hulb",
+      "Integrity": "T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.svg"
     },
     {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\scopedcss\\bundle\\E_Commerce_MVC.styles.css",
@@ -2117,6 +2117,321 @@
       "OriginalItemSpec": "wwwroot\\Admin\\js\\jquery.overlayScrollbars.min.js"
     },
     {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.eot",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "otjz39eo9p",
+      "Integrity": "5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.svg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v5dkq0ivw8",
+      "Integrity": "o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.ttf",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "totad59w05",
+      "Integrity": "zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "j5wh9ughv7",
+      "Integrity": "+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff2",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6fdyj7j1sx",
+      "Integrity": "jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.eot",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbm23ce279",
+      "Integrity": "edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.svg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "au0k0t20r3",
+      "Integrity": "vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.ttf",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gaagixs38h",
+      "Integrity": "6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hp61lh7kro",
+      "Integrity": "y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff2",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "40m2n68m7w",
+      "Integrity": "5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.eot",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hh74dlnyy",
+      "Integrity": "NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.svg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akp8kdn8vu",
+      "Integrity": "lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.ttf",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76ds2gje4f",
+      "Integrity": "r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jba8vm33uh",
+      "Integrity": "P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff2",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "Admin/webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k51ry5602j",
+      "Integrity": "mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Admin\\webfonts\\fa-solid-900.woff2"
+    },
+    {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\css\\site.css",
       "SourceId": "E_Commerce_MVC",
       "SourceType": "Discovered",
@@ -2178,6 +2493,153 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/0617c615-e6da-4bf1-87cb-3a616dd5bebd#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5b75s23ekc",
+      "Integrity": "QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/539344f0-f55f-4cea-b2b4-4c8914d575ca#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xubezl6uzj",
+      "Integrity": "iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/695b0bd4-7e2c-4190-a616-ed2c3c6b7092#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xubezl6uzj",
+      "Integrity": "iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/90998f86-bcb4-4b5c-84ce-02bce74f9687#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xubezl6uzj",
+      "Integrity": "iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/909cce12-1fcc-417b-ab91-05ec88bc71ff#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5b75s23ekc",
+      "Integrity": "QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\e0b3efa9-3985-4a10-b308-25301e711192.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/e0b3efa9-3985-4a10-b308-25301e711192#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r4sk6x9g48",
+      "Integrity": "a0WH2L3jDy0IFLL+JhK7d9KC2ypnIWvSnmEywH/wvoc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\e0b3efa9-3985-4a10-b308-25301e711192.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg",
+      "SourceId": "E_Commerce_MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
+      "BasePath": "_content/E_Commerce_MVC",
+      "RelativePath": "images/fc97de4f-fd9f-4079-b37d-94c0322d62bc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xubezl6uzj",
+      "Integrity": "iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg"
     },
     {
       "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\js\\scripts.js",
@@ -3480,321 +3942,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.eot",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "otjz39eo9p",
-      "Integrity": "5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.eot"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "v5dkq0ivw8",
-      "Integrity": "o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.svg"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.ttf",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "totad59w05",
-      "Integrity": "zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "j5wh9ughv7",
-      "Integrity": "+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff2",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "6fdyj7j1sx",
-      "Integrity": "jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.eot",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "dbm23ce279",
-      "Integrity": "edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.eot"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "au0k0t20r3",
-      "Integrity": "vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.svg"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.ttf",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gaagixs38h",
-      "Integrity": "6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "hp61lh7kro",
-      "Integrity": "y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff2",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "40m2n68m7w",
-      "Integrity": "5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.eot",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.eot",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "3hh74dlnyy",
-      "Integrity": "NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.eot"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.svg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "akp8kdn8vu",
-      "Integrity": "lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.svg"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.ttf",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "76ds2gje4f",
-      "Integrity": "r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.woff",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "jba8vm33uh",
-      "Integrity": "P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff"
-    },
-    {
-      "Identity": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff2",
-      "SourceId": "E_Commerce_MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\",
-      "BasePath": "_content/E_Commerce_MVC",
-      "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "k51ry5602j",
-      "Integrity": "mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff2"
     }
   ],
   "Endpoints": [
@@ -7785,6 +7932,1884 @@
       ]
     },
     {
+      "Route": "Admin/webfonts/fa-brands-400.6fdyj7j1sx.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6fdyj7j1sx"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.j5wh9ughv7.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "j5wh9ughv7"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.otjz39eo9p.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "134294"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "otjz39eo9p"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\hu0z9dtcej-v5dkq0ivw8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003918787"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\hu0z9dtcej-v5dkq0ivw8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.totad59w05.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "totad59w05"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.v5dkq0ivw8.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\hu0z9dtcej-v5dkq0ivw8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003918787"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255180"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.v5dkq0ivw8.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "747927"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.v5dkq0ivw8.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\hu0z9dtcej-v5dkq0ivw8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "255180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v5dkq0ivw8"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-brands-400.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-brands-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.40m2n68m7w.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "40m2n68m7w"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.au0k0t20r3.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\eyxuqg5qhq-au0k0t20r3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026762297"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37365"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.au0k0t20r3.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.au0k0t20r3.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\eyxuqg5qhq-au0k0t20r3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "au0k0t20r3"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.dbm23ce279.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbm23ce279"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.gaagixs38h.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gaagixs38h"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.hp61lh7kro.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hp61lh7kro"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-regular-400.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\eyxuqg5qhq-au0k0t20r3.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000026762297"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37365"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "144714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\eyxuqg5qhq-au0k0t20r3.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37365"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33736"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-regular-400.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13224"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.3hh74dlnyy.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hh74dlnyy"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.76ds2gje4f.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76ds2gje4f"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.akp8kdn8vu.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\zeo1yf19zr-akp8kdn8vu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003889144"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.akp8kdn8vu.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.akp8kdn8vu.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\zeo1yf19zr-akp8kdn8vu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akp8kdn8vu"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.svg.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.eot",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "203030"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.jba8vm33uh.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jba8vm33uh"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.k51ry5602j.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k51ry5602j"
+        },
+        {
+          "Name": "label",
+          "Value": "Admin/webfonts/fa-solid-900.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\zeo1yf19zr-akp8kdn8vu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000003889144"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257125"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.svg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "918991"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.svg.gz",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\zeo1yf19zr-akp8kdn8vu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "257125"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202744"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.woff",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "101648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
+        }
+      ]
+    },
+    {
+      "Route": "Admin/webfonts/fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\Admin\\webfonts\\fa-solid-900.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78268"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
+        }
+      ]
+    },
+    {
       "Route": "css/site.b9sayid5wm.css",
       "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\xpqq2xtiw7-b9sayid5wm.gz",
       "Selectors": [
@@ -9271,6 +11296,580 @@
         {
           "Name": "integrity",
           "Value": "sha256-jcY0RXFOlcp4VNTCcYQtWVZZBlr+ZY+AOv6/0S5dnF8="
+        }
+      ]
+    },
+    {
+      "Route": "images/0617c615-e6da-4bf1-87cb-3a616dd5bebd.5b75s23ekc.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b75s23ekc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE="
+        }
+      ]
+    },
+    {
+      "Route": "images/0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:52:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE="
+        }
+      ]
+    },
+    {
+      "Route": "images/539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/539344f0-f55f-4cea-b2b4-4c8914d575ca.xubezl6uzj.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:37:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xubezl6uzj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/695b0bd4-7e2c-4190-a616-ed2c3c6b7092.xubezl6uzj.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:37:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xubezl6uzj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 18:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/90998f86-bcb4-4b5c-84ce-02bce74f9687.xubezl6uzj.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 18:24:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xubezl6uzj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/909cce12-1fcc-417b-ab91-05ec88bc71ff.5b75s23ekc.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 22:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5b75s23ekc"
+        },
+        {
+          "Name": "label",
+          "Value": "images/909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE="
+        }
+      ]
+    },
+    {
+      "Route": "images/909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "57969"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 22:11:30 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QUjPDnobGksn0dRKGbhTAcTzL6Ds4uMuinUqxtixzdE="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0b3efa9-3985-4a10-b308-25301e711192.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\e0b3efa9-3985-4a10-b308-25301e711192.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0WH2L3jDy0IFLL+JhK7d9KC2ypnIWvSnmEywH/wvoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 11:07:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0WH2L3jDy0IFLL+JhK7d9KC2ypnIWvSnmEywH/wvoc="
+        }
+      ]
+    },
+    {
+      "Route": "images/e0b3efa9-3985-4a10-b308-25301e711192.r4sk6x9g48.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\e0b3efa9-3985-4a10-b308-25301e711192.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "149441"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"a0WH2L3jDy0IFLL+JhK7d9KC2ypnIWvSnmEywH/wvoc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 11:07:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r4sk6x9g48"
+        },
+        {
+          "Name": "label",
+          "Value": "images/e0b3efa9-3985-4a10-b308-25301e711192.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-a0WH2L3jDy0IFLL+JhK7d9KC2ypnIWvSnmEywH/wvoc="
+        }
+      ]
+    },
+    {
+      "Route": "images/fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
+        }
+      ]
+    },
+    {
+      "Route": "images/fc97de4f-fd9f-4079-b37d-94c0322d62bc.xubezl6uzj.jpg",
+      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "213988"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Jun 2025 20:26:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xubezl6uzj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fc97de4f-fd9f-4079-b37d-94c0322d62bc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iYofiMy599kH3dyksivsGj6ycB6ZeUArwDdsWsKaMmw="
         }
       ]
     },
@@ -27531,1884 +30130,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-1HkjQSVuV0/ji/X/lGeDTHeagBS0BwopMrHDQuwqgtU="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.6fdyj7j1sx.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76736"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6fdyj7j1sx"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.woff2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134294"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.j5wh9ughv7.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89988"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "j5wh9ughv7"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.woff"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.otjz39eo9p.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "134294"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "otjz39eo9p"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.eot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5CmUZOewEpaO7WOsLbHJUJ9WvKQJ759x8pJqjDyAsqk="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e52gpc8v7t-v5dkq0ivw8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003918787"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "255180"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "747927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e52gpc8v7t-v5dkq0ivw8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "255180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.totad59w05.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "133988"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "totad59w05"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.ttf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "133988"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zaWdbv/6aFgw/ZW1X2SunLUSec00skELafhMfsMBV9k="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e52gpc8v7t-v5dkq0ivw8.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003918787"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "255180"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v5dkq0ivw8"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "747927"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v5dkq0ivw8"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-o7mBd4AhTK8B6K7CC83CMFof80oV+ugezQkj35zVzQo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.v5dkq0ivw8.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\e52gpc8v7t-v5dkq0ivw8.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "255180"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "v5dkq0ivw8"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-brands-400.svg.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-OEEN71Rqu00tZATD3ODzHDyUBpDxJ9GQvmeHZz0B3Jo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "89988"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-+SF/ZodLDAHNjBC2opXbxPYJrLb1rcQcN9pGZBtX6wI="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-brands-400.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-brands-400.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "76736"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-jqh5F1SRWomKMQDmPjKXim0XY75t+Oc6OdOpDWkc3u8="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.40m2n68m7w.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "40m2n68m7w"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.woff2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2eo1ej7aty-au0k0t20r3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000026762297"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37365"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "au0k0t20r3"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "144714"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "au0k0t20r3"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.au0k0t20r3.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2eo1ej7aty-au0k0t20r3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "au0k0t20r3"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.svg.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.dbm23ce279.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34034"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dbm23ce279"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.eot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34034"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-edCIBkvrOCYFT7iBZUFiNYl6hWypUvyhSYscWbFqqkg="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.gaagixs38h.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33736"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gaagixs38h"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.ttf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.hp61lh7kro.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "hp61lh7kro"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-regular-400.woff"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2eo1ej7aty-au0k0t20r3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000026762297"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37365"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "144714"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-vgoISWLYBmiE9/6b0n7BblH1qTtypQLJLFok3IfrLrw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\2eo1ej7aty-au0k0t20r3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "37365"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GEP9v5/vPudUNAiLhqyxxdoeDSjUbskG8q4EEdlTy/g="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "33736"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6HEbu4ca/Y6d6mDhbTDwDH5IN7vJgHBlAXR1uEn6IxM="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16276"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-y56eaTGSQTzeKx8hwdwdRLb+eyfMK0WOizWdGPn/j04="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-regular-400.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-regular-400.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13224"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-5CqIRERIrD1gVJzHwf8sipyschA0wHPYChSkTnlzDMo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.3hh74dlnyy.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203030"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3hh74dlnyy"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.eot"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.76ds2gje4f.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "76ds2gje4f"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.ttf"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\tw95yx2lk0-akp8kdn8vu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003889144"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "257125"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "akp8kdn8vu"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "918991"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "akp8kdn8vu"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.svg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.akp8kdn8vu.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\tw95yx2lk0-akp8kdn8vu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "257125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "akp8kdn8vu"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.svg.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.eot",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.eot",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "203030"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/vnd.ms-fontobject"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NzwE/SQY9cd+6knVFHMQWPGQepT/O05dfD5XZ+i1PYs="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.jba8vm33uh.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "101648"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "jba8vm33uh"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.woff"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.k51ry5602j.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78268"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k51ry5602j"
-        },
-        {
-          "Name": "label",
-          "Value": "webfonts/fa-solid-900.woff2"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\tw95yx2lk0-akp8kdn8vu.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000003889144"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "257125"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.svg",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.svg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "918991"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-lnTrG9VQRxeQODcJOmdmjqiPLtAG2RNn0NS3qh+SEfw="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.svg.gz",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\obj\\Debug\\net9.0\\compressed\\tw95yx2lk0-akp8kdn8vu.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "257125"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/svg+xml"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-T1aINCZepnkCJCqNYsDZ2m4WsCA0QFPxbzsGLJdtnSo="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.ttf",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.ttf",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202744"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/x-font-ttf"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-r2OXUD/O+9YTl2whrVweNymMGLvgfQltsDzNOvbgW6g="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.woff",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "101648"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/font-woff"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-P200iM9lN09vZ2wxU0CwrCvoMr1VJAyAlEjjbvm5YyY="
-        }
-      ]
-    },
-    {
-      "Route": "webfonts/fa-solid-900.woff2",
-      "AssetFile": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\webfonts\\fa-solid-900.woff2",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "78268"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "font/woff2"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 07 Feb 2022 20:33:09 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-mDS4KtJuKjdYPSJnahLdLrD+fIA1aiEU0NsaqLOJlTc="
         }
       ]
     }

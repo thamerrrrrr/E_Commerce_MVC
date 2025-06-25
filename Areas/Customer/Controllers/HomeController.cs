@@ -9,7 +9,8 @@ namespace E_Commerce_MVC.Areas.Customer.Controllers
         ApplicationDbContext context = new ApplicationDbContext();
         public IActionResult Index()
         {
-            ViewBag.cats = context.categories.ToList();
+            ViewBag.categories = context.categories.ToList();
+            ViewBag.products = context.products.ToList();
             return View();
         }
     }

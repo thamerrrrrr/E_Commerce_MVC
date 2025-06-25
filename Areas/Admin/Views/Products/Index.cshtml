@@ -1,0 +1,46 @@
+﻿@model List<Product>
+@section Heading {
+    Products
+}
+@section Title {
+    Show
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width: 10px">#</th>
+            <th>Task</th>
+            <th>Action</th>
+            <th>D</th>
+            <th>D</th>
+            <th>D</th>
+            <th>D</th>
+
+        
+
+
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Quantity</td>
+                <td>@item.Price</td>
+
+                <td>@item.Image</td>
+
+                <td>    
+                    <a onclick="return confirm(' Are you sure to Delete this Item ?!!!');" type="button" class="btn  btn-outline-danger " href="/admin/products/Delete/@item.Id">Delete</a>
+                    <a  type="button" class="btn  btn-outline-danger " href="/admin/products/Edit/@item.Id">Edit</a>
+
+                    </td>
+            </tr>
+        }
+        </tbody>
+</table>

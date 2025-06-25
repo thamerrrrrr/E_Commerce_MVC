@@ -1,0 +1,78 @@
+﻿
+@model Product
+@section Heading {
+Admin
+}
+@section Title {
+Create
+}
+<form method="post" action="/admin/products/Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <div>
+            <label for="exampleInputEmail1">Name</label>
+            <input name="Name" type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Name..." >
+            <span class="text-danger" asp-validation-for="Name"></span>
+
+        </div>
+        <div>
+            <label for="exampleInputEmail1">Description</label>
+            <textarea name="Description" class="form-control" id="exampleInputEmail1" placeholder="Description..."></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
+
+
+        </div>
+        <div>
+            <label for="exampleInputEmail1">Price</label>
+            <input name="Price" type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Price...">
+            <span class="text-danger" asp-validation-for="Price"></span>
+
+
+
+
+        </div>
+        <div>
+            <label for="exampleInputEmail1">Quantity</label>
+            <input name="Quantity" type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Quantity...">
+            <span class="text-danger" asp-validation-for="Quantity"></span>
+
+
+
+
+
+        </div>
+
+        <div>
+            <label for="exampleInputEmail1">Image</label>
+            <input name="Image" type="file" class="form-control" id="exampleInputEmail1" />
+            <span class="text-danger" asp-validation-for="Image"></span>
+
+
+
+
+        </div>
+        <div>
+
+
+            <label for="exampleInputEmail1">CategoryName</label>
+
+            <select class="form-control" name="CategoryId">
+                @foreach (var item in ViewBag.categories)
+                {
+                  
+                   
+                    <option value="@item.Id">@item.Name</option>
+                 
+                   
+
+            }
+        </select>
+        
+        </div>
+
+
+
+        <div class="card-footer mt-4">
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+    </div>
+</form>

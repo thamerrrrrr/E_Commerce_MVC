@@ -1,0 +1,20 @@
+﻿@model Category
+
+@section Heading {
+        Admin
+}
+@section Title {
+    Create    
+}
+<form method="post" action="/admin/categories/Create">
+<div class="form-group">
+    <label for="exampleInputEmail1">Name</label>
+    <input name="Name"type="text" class="form-control" id="exampleInputEmail1" placeholder="Enter Name..." value="@Model.Name">
+        <span asp-validation-for="Name" class="text-danger"></span>
+      
+
+        <div class="card-footer">
+            <button type="submit" class="btn btn-primary">Create</button>
+        </div>
+</div>
+</form>

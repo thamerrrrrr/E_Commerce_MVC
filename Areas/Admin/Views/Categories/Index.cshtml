@@ -1,0 +1,28 @@
+﻿@model List<Category>
+@section Heading {
+Categories
+}
+@section Title{
+Show
+}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th style="width: 10px">#</th>
+            <th>Task</th>
+            <th>Action</th>
+           
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td><a  onclick="return confirm(' Are you sure to Delete this Item ?!!!');"type="button" class="btn  btn-outline-danger " href="/admin/categories/Delete/@item.Id">Delete</a></td>
+            </tr>
+        }
+</table>
