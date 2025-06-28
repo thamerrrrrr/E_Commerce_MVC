@@ -5,6 +5,21 @@ Categories
 @section Title{
 Show
 }
+@section style {
+<link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" rel="stylesheet" />
+}
+@section script {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+     @if (@TempData["success"] is not null){
+    <script>
+
+    
+    
+      toastr.success('@TempData["success"]')
+    
+    </script>
+}
+}
 <table class="table table-bordered">
     <thead>
         <tr>

@@ -26,13 +26,16 @@ namespace E_Commerce_MVC.Areas.Admin.Controllers
         }
 
         [HttpPost]
-        public IActionResult Create(Product request,IFormFile Image)
+        public IActionResult Create(Product request,IFormFile? Image)
         {
             if (ModelState.IsValid)
             {
+                if (Image is not null)
+                {
 
-                string fileName = imageService.UploadImage(Image);
-                request.Image = fileName;
+                    string fileName = imageService.UploadImage(Image);
+                    request.Image = fileName;
+                }
                 context.products.Add(request);
                 context.SaveChanges();
                 return RedirectToAction("index");
@@ -83,7 +86,11 @@ namespace E_Commerce_MVC.Areas.Admin.Controllers
         public IActionResult Delete(int id)
         {
             var product = context.products.FirstOrDefault(p => p.Id == id);
-            imageService.DeleteImage(product.Image);
+            if (product.Image is not null)
+            {
+                imageService.DeleteImage(product.Image);
+            }
+
 
 
 

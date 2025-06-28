@@ -41,8 +41,10 @@ namespace E_Commerce_MVC.Areas.Admin.Controllers
             {
                 if (!context.categories.Any(c => c.Name == request.Name))
                 {
+                    
                     context.categories.Add(request);
                     context.SaveChanges();
+                    TempData["success"] = "operation completely done";
                     return RedirectToAction("index");
                 }
             }

@@ -25,5 +25,7 @@ namespace E_Commerce_MVC.Models
         public int CategoryId { set; get; }
         [ValidateNever]
         public Category Category { set; get; }
+
+   
     }
 }

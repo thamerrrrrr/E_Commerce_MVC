@@ -149,12 +149,36 @@
       "PackagePath": "staticwebassets\\images\\0617c615-e6da-4bf1-87cb-3a616dd5bebd.jpg"
     },
     {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\169a9245-458e-46a6-986c-d1c5a62c8225.jpg",
+      "PackagePath": "staticwebassets\\images\\169a9245-458e-46a6-986c-d1c5a62c8225.jpg"
+    },
+    {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg",
       "PackagePath": "staticwebassets\\images\\539344f0-f55f-4cea-b2b4-4c8914d575ca.jpg"
     },
     {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\5aeb004a-81d9-43af-a0e8-5ca7d1c7abde.jpg",
+      "PackagePath": "staticwebassets\\images\\5aeb004a-81d9-43af-a0e8-5ca7d1c7abde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\5e0dc402-c105-47db-a900-43ab7cced0d2.jpg",
+      "PackagePath": "staticwebassets\\images\\5e0dc402-c105-47db-a900-43ab7cced0d2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\6900095c-982c-4d0e-89b0-f552eb90c357.jpg",
+      "PackagePath": "staticwebassets\\images\\6900095c-982c-4d0e-89b0-f552eb90c357.jpg"
+    },
+    {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg",
       "PackagePath": "staticwebassets\\images\\695b0bd4-7e2c-4190-a616-ed2c3c6b7092.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\817c3eca-b625-4c6f-b606-e81f2ed3cb3c.jpg",
+      "PackagePath": "staticwebassets\\images\\817c3eca-b625-4c6f-b606-e81f2ed3cb3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\8ebb2896-b578-411c-bf52-3730125a9a28.jpg",
+      "PackagePath": "staticwebassets\\images\\8ebb2896-b578-411c-bf52-3730125a9a28.jpg"
     },
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\90998f86-bcb4-4b5c-84ce-02bce74f9687.jpg",
@@ -163,6 +187,38 @@
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg",
       "PackagePath": "staticwebassets\\images\\909cce12-1fcc-417b-ab91-05ec88bc71ff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\9cdb2f14-b851-422b-ad8b-81c3e8925888.jpg",
+      "PackagePath": "staticwebassets\\images\\9cdb2f14-b851-422b-ad8b-81c3e8925888.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\a1feb058-4009-4a89-820c-f40909ffa050.jpg",
+      "PackagePath": "staticwebassets\\images\\a1feb058-4009-4a89-820c-f40909ffa050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\afcc6158-fe8f-44f4-a894-08d14cfc72e7.webp",
+      "PackagePath": "staticwebassets\\images\\afcc6158-fe8f-44f4-a894-08d14cfc72e7.webp"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\c43dee15-4128-4110-9f71-ce7893629c65.jpg",
+      "PackagePath": "staticwebassets\\images\\c43dee15-4128-4110-9f71-ce7893629c65.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\cbcaa6db-ee88-490e-8b76-33b21350cc47.jpg",
+      "PackagePath": "staticwebassets\\images\\cbcaa6db-ee88-490e-8b76-33b21350cc47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\d03d6cd7-375f-4c12-bdce-32bd032874e9.jpg",
+      "PackagePath": "staticwebassets\\images\\d03d6cd7-375f-4c12-bdce-32bd032874e9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\d15bca40-86e4-4886-9a38-5dcdda4d8b8a.jpg",
+      "PackagePath": "staticwebassets\\images\\d15bca40-86e4-4886-9a38-5dcdda4d8b8a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\df932671-307e-47a5-9ebb-247fdc529cfe.jpg",
+      "PackagePath": "staticwebassets\\images\\df932671-307e-47a5-9ebb-247fdc529cfe.jpg"
     },
     {
       "Id": "C:\\Users\\almanar\\Documents\\Thamer Draidi Back End\\MVC-Project\\E_Commerce_MVC\\E_Commerce_MVC\\wwwroot\\images\\e0b3efa9-3985-4a10-b308-25301e711192.jpg",

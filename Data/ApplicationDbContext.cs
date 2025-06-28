@@ -6,6 +6,7 @@ namespace E_Commerce_MVC.Data
 {
     public class ApplicationDbContext :DbContext
     {
+   
         public DbSet<Category> categories { get; set; }
         public DbSet<Product> products { get; set; }
 
